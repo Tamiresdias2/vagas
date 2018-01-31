@@ -1,13 +1,12 @@
-<!-- 
+<!--
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA DESENVOLVEDOR PHP!
 
 Não faça distinção de gênero no titulo da vaga.
 
-Use: "Front-End Developer" ao invés de
-"Desenvolvedor Front-End" \o/
+Use: "PHP Developer" ao invés de "Desenvolvedor PHP" \o/
 
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
+Exemplo: `[São Paulo] PHP Developer na NOME DA EMPRESA`
 ==================================================
 -->
 
@@ -57,7 +56,7 @@ Aqui na Corporação XPTO somos líderes em...
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga PHP
 
 ## Labels
 
