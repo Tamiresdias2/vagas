@@ -14,9 +14,9 @@ Vagas disponíveis em https://github.com/phpdevbr/vagas/issues
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
 
-Exemplo: `[São Paulo] Desenvolvedor PHP na [NOME DA EMPRESA]`
+Exemplo: `[São Paulo/SP] PHP Developer na Nome da Empresa`
 
-Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
+Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada, forma de contração e alocação.
 
 **Atenção**: Não aceitaremos vagas sem o nome da empresa contratante.
 
@@ -49,4 +49,4 @@ listas onde você poderá postar sua vaga:
 
 ## Licença
 
-[MIT](/LICENSE) &copy; FrontendBR
+[MIT](/LICENSE) &copy; PHPDevBR ee FrontendBR

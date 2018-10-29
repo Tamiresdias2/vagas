@@ -1,22 +1,25 @@
 <!--
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA DESENVOLVEDOR PHP!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA DESENVOLVEDOR(A) PHP!
 
 Não faça distinção de gênero no titulo da vaga.
 
 Use: "PHP Developer" ao invés de "Desenvolvedor PHP" \o/
 
-Exemplo: `[São Paulo] PHP Developer na NOME DA EMPRESA`
+Exemplo: `[São Paulo/SP] PHP Developer na Nome da Empresa`
+
+Evite fugir do padrão, isso só dá trabalho aos administradores,
+pois os títulos são padronizados.
 ==================================================
 -->
 
 ## Descrição da vaga
 
-Projeto bazinga em Symfony, etc.
+Projeto XYZ em Symfony, etc.
 
 ## Local
 
-Remoto ou Escritório, São Paulo - Vila Olímpia
+Remoto ou Escritório, São Paulo/SP - Vila Olímpia
 
 ## Benefícios
 
@@ -38,7 +41,7 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 
 **Obrigatórios:**
 - 3 anos de experiência com PHP 5+
-- 2 anos de experiência com mongodb
+- 2 anos de experiência com MongoDB
 
 **Desejáveis:**
 - conhecimentos em Laravel
@@ -60,13 +63,24 @@ Por favor envie um email para email@email.com.br com seu CV anexado - enviar no 
 
 ## Labels
 
-- Alocado
+<!-- Escolha abaixo, apague as que não fizerem sentido: -->
+### Alocação:
+- Presencial
+- Flexível (Remoto parcial)
+- Presencial
+- Outros (especificar)
+
+### Contratação:
 - CLT
-- Estágio
-- Freela
-- Júnior
 - PJ
+- Freelance
+- Estágio
+- Outros (especificar)
+
+### Experiência
+- Estágio
+- Júnior
 - Pleno
-- Remoto - Parcial
-- Remoto - Total
 - Sênior
+- Especialista
+- Outros (especificar)
